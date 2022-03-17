@@ -3,7 +3,13 @@ body{
     background-color: #FFFFCC;
 }
 .linux img{
-    height: 150px;
+    height: 130px;
     width: 190px;
     float: right;
+}
+h1{
+    text-align: center;
+}
+.jyuyou{
+    border-bottom: 2px solid blue;
 }
